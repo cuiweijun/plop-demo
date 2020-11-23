@@ -1,0 +1,15 @@
+{
+  "name": "plops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "new":"npx plop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plop": "^2.7.4"
+  }
+}
